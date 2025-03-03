@@ -7,7 +7,7 @@ import Service from "./components/Service/Service";
 import Footer from "./components/footer/Footer";
 import Portfolio from "./components/portfolio/Portfolio";
 import ContactUs from "./components/contact/ContactUs";
-
+import { Analytics } from '@vercel/analytics/next';
 function App() {
 
   return (
@@ -21,6 +21,8 @@ function App() {
           <Route path='/services' element={<Service />} />
           <Route path='/portfolio' element={<Portfolio />} />
           <Route path='/contact' element={<ContactUs />} />
+          <Analytics />
+
         </Routes>
         <Footer />
       </Router>
