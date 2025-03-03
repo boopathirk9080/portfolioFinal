@@ -12,13 +12,13 @@ function Footer() {
                     <a href="mailto:boopathi7476@gmail.com" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
                         <Email fontSize="small" />
                     </a>
-                    <a href="https://github.com/boopathi7476" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
+                    <a href="https://github.com/boopathirk9080" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
                         <GitHub fontSize="small" />
                     </a>
-                    <a href="https://www.linkedin.com/in/boopathi7476/" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
+                    <a href="https://www.linkedin.com/in/boopathi-r-718553256/" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
                         <LinkedIn fontSize="small" />
                     </a>
-                    <a href="https://www.instagram.com/boopathi7476" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
+                    <a href="https://www.instagram.com/boopathi_rk_?igsh=MW04d2d1cDBjMHhhZg==" target="_blank" rel="noopener noreferrer" className="hover:text-[#64ffda] transition duration-300">
                         <Instagram fontSize="small" />
                     </a>
                 </div>
