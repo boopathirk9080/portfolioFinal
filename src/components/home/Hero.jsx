@@ -31,7 +31,7 @@ function Hero() {
 
                     {/* Email */}
                     <div className="flex items-center justify-center gap-2 text-sm sm:text-base md:text-lg text-[#6184c0]">
-                        <Email className="text-[#64ffda] text-lg sm:text-xl" />
+                        <Email className="text-[#5d80ba] text-lg sm:text-xl" />
                         <span>{val.email}</span>
                     </div>
 
