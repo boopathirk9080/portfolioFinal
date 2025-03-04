@@ -34,7 +34,7 @@ import poster5 from '../assets/posters/RR_Front.jpg'
 // import { FaCode } from "react-icons/fa";
 export const navlink = [
     {
-        url: "/",
+        url: "/portfolioFinal",
         text: "Home",
     },
     {
