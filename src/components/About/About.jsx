@@ -70,9 +70,9 @@ function About() {
             </div>
 
             <div className="md:col-span-2 text-center md:text-left space-y-4" data-aos="fade-left"
-     data-aos-anchor="#example-anchor"
-     data-aos-offset="500"
-     data-aos-duration="500" >
+              data-aos-anchor="#example-anchor"
+              data-aos-offset="500"
+              data-aos-duration="500" >
               <h2 className="text-3xl font-bold text-[#64ffda] ">About Me</h2>
               <p className="text-lg text-white leading-relaxed">{val.desc}</p>
             </div>

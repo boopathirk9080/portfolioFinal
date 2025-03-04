@@ -6,13 +6,13 @@ import Portfolio from '../portfolio/Portfolio'
 import ContactUs from '../contact/ContactUs'
 function Home() {
   return (
-    <div style={{width:"100%"}} >
-      <Hero/>
-      <About/>
-      <Service/>
-      <Portfolio/>
-      <ContactUs/>
-    
+    <div style={{ width: "100%" }} >
+      <Hero />
+      <About />
+      <Service />
+      <Portfolio />
+      <ContactUs />
+
     </div>
   )
 }
