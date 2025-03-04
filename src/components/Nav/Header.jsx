@@ -11,7 +11,7 @@ const Header = () => {
         <header className="bg-[#0a192f] text-white shadow-md sticky top-0 w-full z-50">
             <div className="container mx-auto flex justify-between items-center py-4 px-10">
 
-                <Link to="/portfolioFinal" className="text-xl font-bold">
+                <Link to="/" className="text-xl font-bold">
                     <img src={logo} alt="Logo" className="h-10" />
                 </Link>
 
